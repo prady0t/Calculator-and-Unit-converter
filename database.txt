@@ -1,0 +1,11 @@
+To indian Rupee (data as of 21 may 2022)
+
+1	US	                 77.86
+2	South korea	         0.061
+3	euro	                 81.77 
+4	British pound	         96.67
+5	Australian dollar	 54.41
+6	Uae dirham	         21.12
+7	Canadain dollar	         60.35
+
+
